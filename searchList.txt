@@ -1,0 +1,10 @@
+ fig   
+ date
+ fig
+ grape
+ eggplant
+ grape
+ fig
+ apple
+ date
+ fig
